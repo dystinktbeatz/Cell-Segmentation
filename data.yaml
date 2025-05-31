@@ -1,0 +1,8 @@
+train: D:/Projects/Cell-Segmentation/artifacts/data_ingestion/feature_store/train
+val: D:/Projects/Cell-Segmentation/artifacts/data_ingestion/feature_store/valid
+test: D:/Projects/Cell-Segmentation/artifacts/data_ingestion/feature_store/test
+
+nc: 1
+names: ['cell']
+
+
